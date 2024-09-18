@@ -8,19 +8,19 @@ global.socialm = "GitHub: Lazack28" //ur github or insta name
 global.location = "Tanzania, Dodoma, Kikuyu" //ur location
 
 //new
-global.botname = '𝙻𝙰𝚉𝙰𝙲𝙺 𝙰𝙳𝚅𝙰𝙽𝙲𝙴 𝟶𝟶𝟹' //ur bot name
-global.ownernumber = ['255734980103'] //ur owner number, dont add more than one
-global.ownername = '𝙻𝙰𝚉𝙰𝙲𝙺' //ur owner name
+global.botname = 'AZRAELbot' //ur bot name
+global.ownernumber = ['15706497800'] //ur owner number, dont add more than one
+global.ownername = 'AZRAEL' //ur owner name
 global.websitex = "https://youtu.be/@lazaromtaju"
 global.wagc = "https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x"
 global.themeemoji = '🪀'
 global.wm = "Lazack."
 global.botscript = 'https://github.com/Lazack28/Lazack-Advanced' //script link
 global.packname = "Sticker By"
-global.author = "Lazack\n\n+255734980103"
+global.author = "AZRAEL"
 global.creator = "255734980103@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["255734980103"] // Premium User
+global.premium = ["15706497800"] // Premium User
 
 //channel id
 global.xchannel = {
