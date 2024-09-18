@@ -9,7 +9,7 @@ global.location = "Tanzania, Dodoma, Kikuyu" //ur location
 
 //new
 global.botname = 'AZRAELbot' //ur bot name
-global.ownernumber = ['15706497800'] //ur owner number, dont add more than one
+global.ownernumber = ['15189415189'] //ur owner number, dont add more than one
 global.ownername = 'AZRAEL' //ur owner name
 global.websitex = "https://youtu.be/@lazaromtaju"
 global.wagc = "https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x"
@@ -20,7 +20,7 @@ global.packname = "Sticker By"
 global.author = "AZRAEL"
 global.creator = "255734980103@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["15706497800"] // Premium User
+global.premium = ["15189415189"] // Premium User
 
 //channel id
 global.xchannel = {
